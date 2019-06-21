@@ -1,0 +1,16 @@
+{
+    "name": "Matrix stats",
+    "version": "0.0.1a",
+    "license": "MIT",
+
+    "main": "capture.js",
+
+    "repository": {
+        "type": "git",
+        "url": "https://gitlab.com/0x6C77/matrix-stats"
+    },
+
+    "dependencies": {
+        "matrix-js-sdk": "^2.0.1"
+    }
+}
